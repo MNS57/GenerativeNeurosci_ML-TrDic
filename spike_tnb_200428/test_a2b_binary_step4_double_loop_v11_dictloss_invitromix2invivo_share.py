@@ -43,7 +43,7 @@ init_cell_index_train0 = [None] * 17  # Create a list of 17 elements (index 0 to
 for group in range(1, 17):  # Loop from 1 to 16
 
     if group == 1:
-        data_name_train[group] = ['210511']
+        data_name_train[group] = ['210126']
         init_cell_index_train0[group] = 0
 
 ###############################################################################
